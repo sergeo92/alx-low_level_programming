@@ -1,1 +1,1 @@
-Script that generates the assembly code of a C code and save it in an output file
+Script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
