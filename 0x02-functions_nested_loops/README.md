@@ -1,1 +1,1 @@
-function that checks for alpha character.
+function that adds integers and return the result  
