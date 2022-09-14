@@ -1,6 +1,6 @@
 #include <ctype.h>
 /**
- * _islower - check alpha  character
+ * _isalpha - check alpha  character
  *
  * @c: the letter to be check
  *
