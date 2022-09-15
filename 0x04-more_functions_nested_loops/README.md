@@ -1,1 +1,1 @@
-function that prints a square, followed by a new line.
+function that checks for uppercase character.
