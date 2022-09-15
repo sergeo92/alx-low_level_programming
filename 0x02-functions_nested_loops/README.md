@@ -1,1 +1,1 @@
-function that prints all natural numbers from n to 98
+function that computes the absolute value of an integer.
