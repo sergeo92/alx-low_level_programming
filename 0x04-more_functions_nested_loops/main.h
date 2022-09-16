@@ -10,3 +10,4 @@ void more_numbers(void);
 void print_numb_1(void);
 void print_numb_2(void);
 void line(void);
+void print_line(int n);
