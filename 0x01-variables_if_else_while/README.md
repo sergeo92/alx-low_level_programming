@@ -1,1 +1,1 @@
- program that prints all possible different combinations of three digits.
+ prints all the numbers of base 16 in lowercase
