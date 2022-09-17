@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: prints all possible combinations of three digit numbers.
+ * Description: prints all possible combinations differents of three digit numbers.
  *
  * Return: Always 0 (Success)
  */
@@ -18,7 +18,7 @@ int main(void)
 	{
 		for (j = i + 1; j < 58; j++)
 		{
-			for (k = j + 1; k > 58; k++)
+			for (k = j + 1; k < 58; k++)
 			{
 				putchar(i);
 				putchar(j);
