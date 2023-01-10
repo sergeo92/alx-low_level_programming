@@ -8,3 +8,5 @@ void print_to_98(int n);
 int _abs(int);
 void print_times_table(int n);
 void times_table(void);
+int print_last_digit(int n);
+int print_sign(int n);
