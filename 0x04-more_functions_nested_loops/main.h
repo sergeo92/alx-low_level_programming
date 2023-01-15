@@ -14,3 +14,5 @@ void print_line(int n);
 void print_diagonal(int n);
 void print_cha();
 void print_space();
+void print_cha(int star);
+void print_triangle(int size);
