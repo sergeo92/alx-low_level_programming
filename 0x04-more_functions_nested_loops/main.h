@@ -12,5 +12,5 @@ void print_numb_2(void);
 void line(void);
 void print_line(int n);
 void print_diagonal(int n);
-void print_char();
+void print_cha();
 void print_space();

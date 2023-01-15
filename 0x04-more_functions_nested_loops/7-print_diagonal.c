@@ -7,27 +7,36 @@
  */
 void print_diagonal(int n)
 {
-	int i;
 
-	if (i > 0)
+
+	if (n > 0)
 	{
 		int space;
 		int j;
 
-		space = n - 1;
-		print_space(space);
-		print_char();
+		space = n;
+	
+		for (j=0; j<space; j++)
+		{
+			print_space(j);
+			print_cha();
+			_putchar(10);
+		}		
+	
+	}
+	else
+	{
 		_putchar(10);
 	}
 }
 
 /**
- * print_char - print char \
+ * print_cha - print char \
  *
  */
-void print_char(void)
+void print_cha(void)
 {
-	_putchar(92);
+	_putchar('\\');
 }
 
 /**
@@ -42,6 +51,7 @@ void print_space(int n)
 
 	for (i = 0; i < n; i++)
 	{
-		_putchar(32);
+		_putchar(' ');
+
 	}
 }
